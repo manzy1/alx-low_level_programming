@@ -1,7 +1,9 @@
 #include <stdio.h>
 
 /**
- * main - prints exactly with proper grammar, but the outcome is a piece of art,
+ * main - Entry
+ *
+ *Description: 'prints exactly with proper grammar, but the outcome is a piece of art,'
  *
  * return: always (0)
  */
