@@ -2,8 +2,8 @@
 
 /**
  * main - Entry
- * return: always (0)
- */
+ * return: always 
+ * */
 int main(void)
 {
 	printf("with proper grammar, but the outcome is a piece of art,\n");
