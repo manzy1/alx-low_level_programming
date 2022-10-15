@@ -2,6 +2,9 @@
 
 /**
  * main - Entry
+ *
+ * Description: 'a C program'
+ *
  * return: always (0)
  */
 int main(void)
