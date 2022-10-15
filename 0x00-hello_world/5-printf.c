@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- * main - Entry
+ * main - Entry point
  *
- *Description: 'prints exactly with proper grammar,'
+ * Description: 'prints exactly with proper grammar,'
  *
  * return: Always (0) (Success)
  */
