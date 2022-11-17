@@ -9,7 +9,7 @@
  * @cmp: pointer to func of one of the 3 in main
  * Return: 0
  */
-int int_index(int *array, int size, int (*cmp)(int))
+void array_iterator(int *array, size_t size, void (*action)(int));
 {
 	unsigned int i;
 
